@@ -1,0 +1,44 @@
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\VisualStudioProjects\Web4Opgave\SolutionOpgaveStrips\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\Users\wojci\Downloads\Test Web4\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\Users\wojci\Downloads\Test Web4\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\Users\wojci\Downloads\Test Web4\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\bin\Debug\net6.0\StripsBL.deps.json
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\bin\Debug\net6.0\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\bin\Debug\net6.0\StripsBL.pdb
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\StripsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfoInputs.cache
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\StripsBL.AssemblyInfo.cs
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\StripsBL.csproj.CoreCompileInputs.cache
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\refint\StripsBL.dll
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\StripsBL.pdb
+C:\Users\wojci\Downloads\Test Web4\TestWeb4\StripsBL\obj\Debug\net6.0\ref\StripsBL.dll
